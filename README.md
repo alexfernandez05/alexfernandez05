@@ -1,7 +1,7 @@
 Estudiante de DAW y graduado en DAM, formado en frontend y backend.
 Especializado en HTML, CSS y JavaScript; formándome en React, Angular, TypeScript y Node.js.
 
-En búsqueda de una empresa para la realización de mis prácticas en horario de mañana con convenio de prácticas.
+**En búsqueda de una empresa para la realización de mis prácticas en horario de mañana con convenio de prácticas.**
 
 ### Contacto :mailbox:
 
